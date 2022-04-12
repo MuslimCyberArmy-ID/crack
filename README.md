@@ -23,7 +23,7 @@ pip2 install bs4
 
 pkg install git
 
-git clone https://github.com/Mbokey/cloning
+git clone https://github.com/MuslimCyberArmy-ID/crack
 
 ls
 
